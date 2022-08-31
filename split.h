@@ -19,4 +19,7 @@ struct Node
 
 void split(Node*& in, Node*& odds, Node*& evens);
 // WRITE YOUR CODE HERE
+Node* & traverse(Node*& linkList);
+void clear(Node*& head);
+
 #endif
