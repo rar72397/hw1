@@ -6,3 +6,5 @@ These determine what input will be used for the linked list.
 3. Evens only
 4. Odds only
 5. Normal list
+
+There are no specific instructions for ulliststr_test.cpp
