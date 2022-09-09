@@ -8,3 +8,10 @@ These determine what input will be used for the linked list.
 5. Normal list
 
 There are no specific instructions for ulliststr_test.cpp
+
+This is what that file tests:
+1. pushing at the front and back on an empty list
+2. pushing at the front and back if a node has a partially full array
+3. pushing at the front and back when node's array is completely full
+4. popping at the front and back of a partially full node
+5. deallocating a node when an array has been emptied via popping front or back
