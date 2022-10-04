@@ -51,6 +51,8 @@ void split(Node*& in, Node*& odds, Node*& evens)
 
     split(in->next, odds, evens); //recursive call
   }
+
+  in = nullptr;
 }
 
 /* If you needed a helper function, write it here */
