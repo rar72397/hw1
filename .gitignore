@@ -1,8 +1,5 @@
 split
 split.o
-ulliststr.cpp
-ulliststr.h
-ulliststr_test.cpp
 .clang-format
 .clang-tidy
 grade_split.cpp
