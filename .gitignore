@@ -5,3 +5,6 @@ split.o
 grade_split.cpp
 grade_split.sh
 grade_split
+next
+prev
+ulliststr_test
