@@ -1,14 +1,10 @@
 /* Write your test code for the ULListStr in this file */
-<<<<<<< HEAD
-
 #include <iostream>
 using namespace std;
 
 
 int main(int argc, char* argv[])
 {
-
-=======
 #include "ulliststr.h"
 #include <iostream>
 using namespace std;
@@ -83,6 +79,5 @@ int main(int argc, char* argv[])
   //deleting list
   cout << "Clearing list" << endl;
   data.clear();
->>>>>>> da7d71ca271da0654c0d898808416f701b7011a3
   return 0;
 }

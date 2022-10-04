@@ -25,8 +25,6 @@ size_t ULListStr::size() const
 }
 
 // WRITE YOUR CODE HERE
-<<<<<<< HEAD
-=======
 void ULListStr::push_back(const std::string& val){
   if(empty()){
     Item* node = new Item; 
@@ -159,8 +157,6 @@ std::string* ULListStr::getValAtLoc(size_t loc) const{
 }
 
 ////// END OF MY CODE ////////
->>>>>>> da7d71ca271da0654c0d898808416f701b7011a3
-
 void ULListStr::set(size_t loc, const std::string& val)
 {
   std::string* ptr = getValAtLoc(loc);
